@@ -1,5 +1,5 @@
 {
-  "name": "react-twitter-pixel2",
+  "name": "react-twitter-pixel",
   "version": "0.0.3",
   "description": "Pixel Kit for React",
   "main": "dist/twitter-pixel.js",
