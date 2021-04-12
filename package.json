@@ -1,0 +1,31 @@
+{
+  "name": "react-twitter-pixel",
+  "version": "0.0.3",
+  "description": "Pixel Kit for React",
+  "main": "dist/twitter-pixel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavpaeklund/react-twitter-pixel.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-component",
+    "angular",
+    "vue",
+    "pixel",
+    "twitter-pixel"
+  ],
+  "author": {
+    "name": "Gustav Eklund",
+    "email": "gustavpaeklund@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gustavpaeklund/react-twitter-pixel/issues"
+  },
+  "homepage": "https://github.com/Gustavpaeklund/react-twitter-pixel#readme"
+}
