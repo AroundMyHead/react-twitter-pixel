@@ -109,7 +109,5 @@ export default {
                 log('with data', args[2]);
             }
         }
-
-        return 'good'
     },
 };
